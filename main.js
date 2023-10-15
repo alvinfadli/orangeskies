@@ -7,7 +7,7 @@ blog({
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:alvinfdl21@gmail.com" },
-    { title: "Linkedin", url: "https::www.linkedin.com/in/alvinfadli" },
+    { title: "Linkedin", url: "https://linkedin.com/in/alvinfadli" },
     { title: "GitHub", url: "https://github.com/alvinfadli" },
   ],
   background: "#fff",
